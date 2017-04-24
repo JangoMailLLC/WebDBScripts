@@ -13,3 +13,11 @@ You can find out how to set up a Web Database connection with JangoMail at https
 | w_3.asp | Access DB / Classic ASP |
 | w_4.php | MySQL / PHP |
 | w_5.aspx | SQL Server / Custom ASP.NET |
+
+## Old Scripts
+
+| Script | Database Type |
+| ------ | ------------- |
+| archive/w_4.php | MySQL / PHP |
+
+`archive/w_4.php` supports PHP 4, which is no longer under development.  This is made available for legacy installations of PHP.
