@@ -301,7 +301,7 @@ switch($strAction) {
         echo($databaseHelper->executeNonQuery($strQueryString, 'forward-sync-success', 'forward-sync-failure'));
         break;
     case "test":
-        echo($databaseHelper->executeNonQuery($strQueryString, 'test-sync-success', 'test-sync-failure'));
+        echo('test-success');
         break;
 }
 
